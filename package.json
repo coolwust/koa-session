@@ -1,0 +1,27 @@
+{
+    "name": "koa-session",
+    "version": "1.0.0",
+    "description": "a koa session middleware",
+    "keywords": ["session", "koa", "middleware"],
+    "license": "MIT",
+    "homepage": "https://github.com/coolwust/koa-session",
+    "bug": "https://github.com/coolwust/koa-session/issues",
+    "author": {
+        "name": "coolwust",
+        "email": "coolwust@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/coolwust/koa-session.git"
+    },
+    "main": "index.js",
+    "engines": {
+        "node": ">=0.11.0"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "mocha": "2.*",
+        "chai": "3.*"
+    }
+}
