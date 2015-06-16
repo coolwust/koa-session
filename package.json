@@ -19,9 +19,13 @@
         "node": ">=0.11.0"
     },
     "dependencies": {
+        "rethinkdb": "2.*",
+        "co": "4.*"
     },
     "devDependencies": {
         "mocha": "2.*",
-        "chai": "3.*"
+        "chai": "3.*",
+        "koa": "0.*",
+        "es6-promisify": "2.*"
     }
 }
